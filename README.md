@@ -1,1 +1,1 @@
-Lynq Internship
+Lynq Internship Test Project
