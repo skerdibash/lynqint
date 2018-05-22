@@ -1,5 +1,7 @@
 <resources>
 
     <string name="app_name">Lynq</string>
+    <string name="button1text">TRANSACTIONS</string>
+    <string name="button2text">7 APPLICATIONS</string>
 
 </resources>

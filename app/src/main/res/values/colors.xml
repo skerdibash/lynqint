@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryDark">#0c031d</color>
+    <color name="colorAccent">#bab6bf</color>
     <color name="colorWhite">#ffffff</color>
-    <color name="colorLynq1">#5D00F3</color>
+    <color name="colorLynq1">#7e00f3</color>
     <color name="colorLynq2">#720092</color>
     <color name="colorLynq3">#360057</color>
 </resources>

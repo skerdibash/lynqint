@@ -23,7 +23,7 @@ public class FirstFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
-        View fragmentView = inflater.inflate(R.layout.activity_main, container, false);
+        View fragmentView = inflater.inflate(R.layout.fragment_layout, container, false);
         ImageView imageView= (ImageView) fragmentView.findViewById(R.id.imageView);
         // Inflate the layout for this fragment
         imageView.setImageResource(R.drawable.lynq);

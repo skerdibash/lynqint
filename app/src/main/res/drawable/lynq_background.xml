@@ -3,5 +3,7 @@
     <gradient
         android:startColor="@color/colorLynq1"
         android:endColor="@color/colorLynq2"
+        android:centerColor="@color/colorLynq2"
+        android:centerY="0.75"
         android:angle="-135" />
 </shape>

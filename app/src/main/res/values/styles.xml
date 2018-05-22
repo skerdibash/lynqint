@@ -9,7 +9,7 @@
     </style>
 
     <style name="HeaderBar">
-        <item name="android:background">@color/colorLynq3</item>
+        <item name="android:background">@drawable/actionbar</item>
     </style>
 
 </resources>
